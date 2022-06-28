@@ -3,8 +3,7 @@
 ``` made by ``` https://discord.gg/CjsU4ZSmWT
 
 ```
-remake it for new qb-core with qb-menu and oxmysql support
-
+fix it for new qb-core with qb-menu and oxmysql support
 ```
 
 
