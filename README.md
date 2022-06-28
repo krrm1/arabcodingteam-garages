@@ -1,5 +1,6 @@
 # qb-garages v2.1 used with QBCore Framework
-made by : https://discord.gg/CjsU4ZSmWT
+
+``` made by ``` https://discord.gg/CjsU4ZSmWT
 
 ```
 remake it for new qb-core with qb-menu and oxmysql support
