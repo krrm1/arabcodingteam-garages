@@ -58,6 +58,5 @@ ensure qb-houses
 * depot charges didn't reduced fixed
 * added ability to save vehicle modifications when you store cars if you use too old core
 
-## HORIZONSCRIPTS ## HORIZONSCRIPTS ## HORIZONSCRIPTS ## HORIZONSCRIPTS ##
+## HORIZONSCRIPTS ##
 IF YOU NEED ANY SUPPORT CONTACT THEM VIA DISCORD https://discord.gg/EJhKuMH6Bv
-## HORIZONSCRIPTS ## HORIZONSCRIPTS ## HORIZONSCRIPTS ## HORIZONSCRIPTS ##
