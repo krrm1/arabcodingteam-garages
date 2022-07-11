@@ -1,5 +1,8 @@
 # qb-garages v2.1 used with QBCore Framework
 
+dont ask me for help the script sucks
+
+
 ``` made by ``` https://discord.gg/CjsU4ZSmWT
 
 ```
@@ -12,7 +15,7 @@ fix it for new qb-core with qb-menu and oxmysql support
 * PolyZone
 * polyzonehelper
 * qb-houses
-* qb-radialmenu : https://github.com/arabcodingteam/arabcodingteam-radialmenu
+* qb-radialmenu np menu
 * qb-menu
 
 ### Manual
@@ -24,7 +27,7 @@ fix it for new qb-core with qb-menu and oxmysql support
 ensure PolyZone
 ensure polyzonehelper
 ensure qb-menu
-ensure radialmenu
+ensure radialmenu np menu
 ensure qb-garages
 ensure qb-houses
 ```
