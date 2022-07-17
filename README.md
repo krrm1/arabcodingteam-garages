@@ -1,4 +1,4 @@
-# qb-garages v2.1 used with QBCore Framework
+# np garages form qb-core
 
 dont ask me for help the script sucks
 
