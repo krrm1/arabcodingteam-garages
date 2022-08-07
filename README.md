@@ -20,6 +20,8 @@ fix it for new qb-core with qb-menu and oxmysql support
 
 you need to add this to qb-radialmenu np 
     '@arabcodingteam-garages/config.lua'
+    in fxmanfist.lua
+    
 
 
 ### Manual
