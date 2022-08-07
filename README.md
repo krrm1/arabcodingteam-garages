@@ -15,13 +15,8 @@ fix it for new qb-core with qb-menu and oxmysql support
 * PolyZone
 * polyzonehelper
 * qb-houses 
-* qb-radialmenu np menu
+* qb-radialmenu https://github.com/arabcodingteam/arabcodingteam-radialmenu
 * qb-menu
-
-you need to add this to qb-radialmenu np 
-    '@arabcodingteam-garages/config.lua'
-    in fxmanfist.lua
-    
 
 
 ### Manual
